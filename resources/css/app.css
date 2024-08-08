@@ -1,0 +1,14 @@
+@import "components/layout.css";
+@import "components/form.css";
+@import "components/button.css";
+@import "components/dropdown.css";
+@import "components/typography.css";
+@import "components/alert.css";
+@import "components/modal.css";
+@import "components/map.css";
+
+@import "vendors/litepicker.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
